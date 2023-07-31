@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mat.run/](https://www.mat.run/)
 
-- 📫 How to reach me **mathieu.mafille@icloud.com**
+- 📫 How to reach me **hi@mat.run**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
