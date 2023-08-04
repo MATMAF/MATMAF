@@ -21,4 +21,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/matmaf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="matmaf" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATMAF&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="matmaf" /></p>
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATMAF&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="matmaf"/> </p>
