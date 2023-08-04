@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MATMAF</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **MATools and QRGenerator**
+- 🔭 I’m currently working on **whatsmyipaddress**
 
 - 🌱 I’m currently learning **Python**
 
