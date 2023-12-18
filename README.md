@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at **[mat.run](https://www.mat.run/)**
+- 👨‍💻 All of my projects are available at **[matmaf.xyz](https://matmaf.xyz/)**
 
-- 📫 How to reach me **hi@mat.run**
+- 📫 How to reach me **contact@matmaf.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
